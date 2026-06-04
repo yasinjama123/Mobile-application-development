@@ -1,0 +1,94 @@
+👑 Yasin Jama (Team Leader) – Admin & Infrastructure
+File/Folder
+Count
+lib/screens/admin_screen.dart
+1
+lib/screens/change_default_password_screen.dart
+1
+lib/services/default_admin_service.dart
+1
+firebase_options.dart
+1
+android/ (whole folder)
+many
+ios/ (whole folder)
+many
+pubspec.yaml
+1
+README.md
+1
+FairPrice-BirrWise.pdf (final doc)
+1
+A-Community-Price-Tracker.pptx
+1
+Total
+~30+ files
+💻 Getamesay Hailemichael (Developer) – Backend & Core
+File/Folder
+Count
+lib/models/models.dart
+1
+lib/services/app_provider.dart
+1
+lib/services/auth_service.dart
+1
+lib/services/firestore_service.dart
+1
+lib/services/local_service.dart
+1
+lib/services/messaging_service.dart
+1
+lib/main.dart
+1
+Total
+8 files
+🎨 Sisay Leykun (UI/UX Designer) – Screens & Widgets
+File/Folder
+Count
+lib/screens/home_screen.dart
+1
+lib/screens/auth_screen.dart
+1
+lib/screens/profile_screen.dart
+1
+lib/screens/edit_profile_screen.dart
+1
+lib/screens/search_screen.dart
+1
+lib/screens/product_detail_screen.dart
+1
+lib/screens/price_trends_screen.dart
+1
+lib/screens/nearby_shops_screen.dart
+1
+lib/screens/watchlist_screen.dart
+1
+lib/screens/favorites_screen.dart
+1
+lib/screens/shopping_list_screen.dart
+1
+lib/screens/top_deals_screen.dart
+1
+lib/screens/leaderboard_screen.dart
+1
+lib/widgets/common.dart
+1
+lib/utils/theme.dart
+1
+Total
+16 files
+🐛 Tamrat Arage (Tester) – Testing, Barcode, Map, Localization
+File/Folder
+Count
+lib/screens/barcode_screen.dart
+1
+lib/screens/map_screen.dart
+1
+lib/screens/report_price_screen.dart
+1
+lib/l10n/ (all 3 files)
+3
+test/ (entire folder)
+many (create at least 3 test files)
+Total
+~8+ files
